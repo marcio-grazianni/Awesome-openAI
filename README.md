@@ -44,12 +44,21 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/vincelwt/chatgpt-mac">Mac menubar ChatGPT App</a></li>
   <li><a href="https://github.com/cesarhuret/docGPT">Google docs bot - ChatGPT as Addon in Google docs</a></li>
   <li><a href="https://github.com/m1guelpf/chatgpt-discord">Dicord bot - ChatGPT for discord</a></li>
+  <li><a href="https://github.com/acheong08/ChatGPT">ChatGPT Reversed Engineered api</a></li
+  <li><a href="https://github.com/lencx/ChatGPT">ChatGPT unofficial desktop app</a></li>
+  <li><a href="https://github.com/Chanzhaoyu/chatgpt-web">ChatGPT Web (vue3, express, chatgpt api)</a></li>
 </ul>
 
 ### Popular Repos
 <ul>
  <li><a href="https://github.com/humanloop/awesome-chatgpt">Awesome ChatGPT</a></li>
  <li><a href="https://github.com/openai/openai-cookbook">OpenAI Cookbook - examples and guides for using the OpenAI API</a></li>
+</ul>
+
+### Latest News
+<ul>
+  <li><a href="https://openai.com/product/gpt-4">GPT-4 release</a></li>
+  <li><a href="https://openai.com/customer-stories/duolingo">GPT-4 deepens the conversation on Duolingo</a></li>
 </ul>
 
 ### Apps Utilizing OpenAI API with Frontend Frameworks/Libraries
