@@ -9,6 +9,8 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://beta.openai.com/docs/introduction">OpenAI API Documentation</a></li>
   <li><a href="https://beta.openai.com/examples">OpenAI Examples</a></li>
   <li><a href="https://beta.openai.com/playground">OpenAI Playground</a></li>
+  <li><a href="https://openai.com/blog">OpenAI Blog</a></li>
+  <li><a href="https://openai.com/about">About OpenAI</a></li>
 </ul>
 
 ### Quick Start
@@ -50,14 +52,17 @@ A curated list of all things awesome about OpenAI - the research company behind 
 </ul>
 
 ### Popular Repos
+
 <ul>
  <li><a href="https://github.com/humanloop/awesome-chatgpt">Awesome ChatGPT</a></li>
  <li><a href="https://github.com/openai/openai-cookbook">OpenAI Cookbook - examples and guides for using the OpenAI API</a></li>
+ <li><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome Chatgpt Prompts</a></li>
 </ul>
 
 ### Latest News
 <ul>
   <li><a href="https://openai.com/product/gpt-4">GPT-4 release</a></li>
+  <li><a href="https://openai.com/product/dall-e-2">Dalle-2 release</a></li>
   <li><a href="https://openai.com/customer-stories/duolingo">GPT-4 deepens the conversation on Duolingo</a></li>
 </ul>
 
