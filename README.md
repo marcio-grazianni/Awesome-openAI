@@ -11,6 +11,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://beta.openai.com/playground">OpenAI Playground</a></li>
   <li><a href="https://openai.com/blog">OpenAI Blog</a></li>
   <li><a href="https://openai.com/about">About OpenAI</a></li>
+  <li><a href="https://openai.com/research/gpt-4">GPT-4 Research</a></li>
 </ul>
 
 ### Quick Start
@@ -21,6 +22,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
 
 ### Models
 <ul>
+  <li><a href="https://openai.com/product/gpt-4">GPT-4</a></li>
   <li><a href="https://beta.openai.com/docs/models/gpt-3">GPT-3</a></li>
   <li><a href="https://beta.openai.com/docs/models/codex">Codex</a></li>
   <li><a href="https://beta.openai.com/docs/models/content-filter">Content filter</a></li>
@@ -33,6 +35,14 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://beta.openai.com/docs/guides/code">Code completioan</a></li>
   <li><a href="https://beta.openai.com/docs/guides/embeddings">Embeddings</a></li>
   <li><a href="https://beta.openai.com/docs/guides/fine-tuning">Fine-tuning</a></li>
+</ul>
+
+### OpenAI's Official Repos
+
+<ul>
+ <li><a href="https://github.com/openai/gym">Gym - A toolkit for developing and comparing reinforcement learning algorithms.</a></li>
+ <li><a href="https://github.com/openai/spinningup">An educational resource to help anyone learn deep reinforcement learning.</a></li>
+ <li><a href="https://github.com/openai/baselines">OpenAI Baselines: high-quality implementations of reinforcement learning algorithms</a></li>
 </ul>
 
 ### Popular Applications
