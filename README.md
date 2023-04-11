@@ -38,13 +38,17 @@ A curated list of all things awesome about OpenAI - the research company behind 
 </ul>
 
 ### OpenAI's Official Repos
-
 <ul>
  <li><a href="https://github.com/openai/gym">Gym - A toolkit for developing and comparing reinforcement learning algorithms.</a></li>
  <li><a href="https://github.com/openai/spinningup">An educational resource to help anyone learn deep reinforcement learning.</a></li>
  <li><a href="https://github.com/openai/baselines">OpenAI Baselines: high-quality implementations of reinforcement learning algorithms</a></li>
 </ul>
 
+### How Tos
+  <li><a href="https://github.com/CodeSnippetHQ/tutorial-openai-chat-api">How to use OpenAI's ChatGPT API</a></li>
+  <li><a href="https://github.com/yoheinakajima/babyagi">BabyAGI - agi powered by OpenAI </a></li>
+  
+  
 ### Popular Applications
 <ul>
   <li><a href="https://chat.openai.com/">ChatGPT - Official app</a></li>
@@ -69,6 +73,8 @@ A curated list of all things awesome about OpenAI - the research company behind 
  <li><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome Chatgpt Prompts</a></li>
  <li><a href="https://github.com/binary-husky/chatgpt_academic">ChatGPT Academic</a></li>
  <li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web">ChatGPT Next Web -  deploy chatgptUI</a></li>
+ <li><a href="https://github.com/nomic-ai/gpt4all-ui">GPT4 All chatbot UI</a></li>
+ 
 </ul>
 
 ### Latest News
